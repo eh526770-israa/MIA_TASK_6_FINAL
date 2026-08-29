@@ -1,4 +1,3 @@
-# MIA Training '27 — Task 6 (AI Team)
 
 This repository contains the submission for Task 6, covering both parts:
 
