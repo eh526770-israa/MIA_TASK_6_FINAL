@@ -53,5 +53,3 @@ While uploading the Image Caption Generator project, I ran into an issue where m
 
 ---
 
-## 👤 Submitted by
-Israa — AI Team, Training '27
